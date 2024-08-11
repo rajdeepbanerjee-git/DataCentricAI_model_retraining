@@ -7,4 +7,4 @@ In this solution you will learn:
 * *Data augmentation* -how to gather similar data to improve your model (using FAISS vector search)?
 * *Active learning* methodology
 
-The detailed article is published in [Medium](https://medium.com/@rajdeep.jzs/data-centric-ai-how-to-choose-relevant-data-for-model-retraining-a-hands-on-case-study-df83d0d3cf23) If you like the article please follow me on medium for more such interesting case-studies and put a star on the repository. Thank you!
+The detailed article is published in [Medium](https://medium.com/@rajdeep.jzs/data-centric-ai-how-to-choose-relevant-data-for-model-retraining-a-hands-on-case-study-df83d0d3cf23). If you like the article please follow me on medium for more such interesting case-studies and put a star on the repository. Thank you!
